@@ -1,3 +1,9 @@
+# Game of Life in React.js
+
+![game_of_life](https://github.com/Barbeek/GameofLife/blob/master/demo_gameoflife.gif)
+
+Thanks to https://github.com/beaucarnes for the tuto
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
